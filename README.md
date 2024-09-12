@@ -1,4 +1,4 @@
-# WELCOME TO TECHRIM SOLUTIONS LLC PROFILE
+# WELCOME TO TECHRIM SOLUTIONS LTD PROFILE
 -----------------------------------------
 ![WebApp Screenshot](/static/images/profile.png)
 
@@ -9,7 +9,7 @@ To be the leading provider of best Customized Software Solutions across the worl
 ### MISSION:
 We believe in creating <strong class="fst-italic">Simple</strong>, 
 <strong class="fst-italic">Innovative</strong> and
-<strong class="fst-italic">Creative </strong> Solutions to our Clients.
+<strong class="fst-italic">Creative </strong> Solutions for our Clients.
 
 ## PRODUCTS
 
@@ -18,4 +18,4 @@ We believe in creating <strong class="fst-italic">Simple</strong>,
 - PHONE: +254720404268
 - WHATSAPP: +254720404268
 - EMAIL: info@techrimsolutions.com
-- LINKEDIN: https://www.linkedin.com/company/techrim-solutions-llc/
+- LINKEDIN: https://www.linkedin.com/company/techrim-solutions-ltd/
